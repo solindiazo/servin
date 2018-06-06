@@ -1,0 +1,129 @@
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\bin\Debug\SERVIN.exe.config
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\bin\Debug\SERVIN.exe
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\bin\Debug\SERVIN.pdb
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.exe
+c:\users\soporte\documents\visual studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.pdb
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Consultar_Cliente.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Cotizar.resources
+F:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe.config
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.exe
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.pdb
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Cotizar.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+F:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+F:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe
+F:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.pdb
+G:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe.config
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.exe
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.pdb
+G:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe
+G:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.pdb
+G:\SENA\SERVIN\SERVIN\bin\Debug\mscorlib.dll
+G:\SENA\SERVIN\SERVIN\bin\Debug\es\mscorlib.resources.dll
+G:\SENA\SERVIN\SERVIN\bin\Debug\normidna.nlp
+G:\SENA\SERVIN\SERVIN\bin\Debug\normnfc.nlp
+G:\SENA\SERVIN\SERVIN\bin\Debug\normnfd.nlp
+G:\SENA\SERVIN\SERVIN\bin\Debug\normnfkc.nlp
+G:\SENA\SERVIN\SERVIN\bin\Debug\normnfkd.nlp
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Cotizar.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+G:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+D:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe.config
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.exe
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.pdb
+D:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe
+D:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.pdb
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Cotizar.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+D:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+E:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe.config
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.exe
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.pdb
+E:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.exe
+E:\SENA\SERVIN\SERVIN\bin\Debug\SERVIN.pdb
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Cotizar.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+E:\SENA\SERVIN\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+E:\SENA\SERVIN usb\SERVIN\bin\Debug\SERVIN.exe.config
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.exe
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.pdb
+E:\SENA\SERVIN usb\SERVIN\bin\Debug\SERVIN.exe
+E:\SENA\SERVIN usb\SERVIN\bin\Debug\SERVIN.pdb
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\bin\Debug\SERVIN.exe.config
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.exe
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.pdb
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\bin\Debug\SERVIN.exe
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\bin\Debug\SERVIN.pdb
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Administrador.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Consultar.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Cliente.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Empleado.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Proveedor.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Gestion_Usuario.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Ingreso.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Properties.Resources.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Form_Usuario.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.csproj.GenerateResource.Cache
+E:\SENA\SERVIN usb\SERVIN\obj\Debug\SERVIN.Vista.Form_Gestion_Persona.resources
+C:\Users\SOPORTE\Desktop\SERVIN usb\SERVIN\obj\Debug\SERVIN.Vista.Form_Gestion_Persona.resources
+E:\SERVIN usb\SERVIN\bin\Debug\SERVIN.exe.config
+E:\SERVIN usb\SERVIN\obj\Debug\SERVIN.exe
+E:\SERVIN usb\SERVIN\obj\Debug\SERVIN.pdb
